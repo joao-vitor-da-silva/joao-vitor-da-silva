@@ -18,7 +18,7 @@
 # 👽 Sobre min
 
 👾 
-Olá! Eu sou João Vitor, um estudante de Sistemas de Informação, comprometido em explorar e expandir constantemente meu conhecimento nas infinitas possibilidades que o vasto universo da tecnologia oferece.!
+Olá! Eu sou João Vitor, um estudante de Análise e Desenvolvimento de Sistemas (ADS), comprometido em explorar e expandir constantemente meu conhecimento nas infinitas possibilidades que o vasto universo da tecnologia oferece.!
 
 🌱 Estou sempre em busca de expandir e aperfeiçoar minhas habilidades em diversas áreas, como desenvolvimento de software, inteligência artificial, aprendizado de máquina e segurança da informação. Estou convencido de que a chave para o sucesso em uma indústria em constante evolução reside na busca incessante por aprendizado e no cultivo da curiosidade.
 
