@@ -36,7 +36,8 @@ Olá! Eu sou João Vitor, um estudante de Análise e Desenvolvimento de Sistemas
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao25102000silva&theme=midnight-purple&layout=compact&bg_color=000000&border_color=8300ff&text_color=ffffff)
