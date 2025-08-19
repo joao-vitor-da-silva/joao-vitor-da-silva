@@ -36,7 +36,8 @@ Olá! Eu sou João Vitor, um estudante de Sistemas de Informação, comprometido
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joao25102000silva&theme=midnight-purple&layout=compact&bg_color=000&border_color=8300ff&text_color=FFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao25102000silva&theme=midnight-purple&layout=compact&bg_color=000000&border_color=8300ff&text_color=ffffff)
+
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=joao25102000silva&hide_title=true&border_color=8300ff&theme=midnight-purple&show_icons=true)
